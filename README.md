@@ -45,7 +45,7 @@ model comparison table → tuning curves → confusion matrix → SHAP summary.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/breast-cancer-classification.git
+git clone https://github.com/K-Nair/breast-cancer-classification.git
 cd breast-cancer-classification
 pip install -r requirements.txt
 python main.py
